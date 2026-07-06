@@ -49,7 +49,6 @@ INSTALLED_APPS = [
 
     "accounts",
     "interviews",
-    "common",
 ]
 
 MIDDLEWARE = [
